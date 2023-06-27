@@ -1,2 +1,3 @@
 # Loan-Approval-Analysis
-a dashboard that visualize the main factors that affect the loan approval process
+the project consists of three parts first part is a statisticl analysis on the dataset to show the features that may affect the approval status and there importance on the approval process , secound part is after we get known our dataset very well and know main aspects of it i started visualize the insights obtaind into an effictive dashboard , third part is constracting a machine classification model that classifiy the offerd loans into 2 categories (approved,rejected) based on the applicant details in order to automate the approval process whch will end on saving costs and money.
+
